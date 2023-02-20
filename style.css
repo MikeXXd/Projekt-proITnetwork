@@ -1,0 +1,46 @@
+/* Color pallete */
+.new0 { color: #444441; } /* písmo a tabulka-border */
+.new1 { color: #999993; } /* tabulka-inner */
+.new2 { color: #Eeeee4; } /* background */
+.new3 { color: #2596be; } /* header-background */
+.nav4 { color: #b5c576; } /* footer-background */
+.nav5 { color: #b0b015; } /* alternative to table and form main text */
+
+.bg-nav {
+    background-color:  #2596be;
+}
+
+section, thead {
+    color:#444441 ;
+}
+footer {
+    background-color: #b5c576;
+}
+.bg-input {
+    background-color: #2596be ;
+}
+.heather_nav {
+    height: 4rem;
+}
+form legend{
+    text-align: center;
+}
+
+.button-colors {
+    border-color:#444441;
+    color: #444441;
+}
+.button-colors:hover {
+    border-color:#b5c576;
+}
+.button-colors:active {
+    border-color:#2596be;
+}
+
+
+.button-colors:hover {
+    background-color: #b5c576;
+}
+.button-colors:active {
+    background-color: #2596be;
+}
